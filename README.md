@@ -1,6 +1,7 @@
 # Flight Fare Prediction
 
 This repository contains the code and documentation for a machine learning project aimed at predicting flight fares based on various factors. The project focuses on providing users with insights into potential flight costs, helping them make informed decisions when planning their trips.
+We explore a dataset containing flight information and perform data preprocessing, exploratory data analysis (EDA), feature engineering, and model building using the RandomForestRegressor algorithm. The goal is to create a reliable model that can accurately predict flight ticket prices for various routes and airlines.
 
 ## Problem Statement
 
