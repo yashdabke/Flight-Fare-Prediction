@@ -70,6 +70,6 @@ Response time measurements for the model are conducted to assess its efficiency 
 The project is optimized at the code and architecture levels. Test cases are included to validate the effectiveness of the optimizations.
 
 ## Author 
-Yash Santosh Dabke
-Email: yash11usa@gmail.com
-GitHub: https://github.com/yashdabke
+- Yash Santosh Dabke
+- Email: yash11usa@gmail.com
+- GitHub: https://github.com/yashdabke
